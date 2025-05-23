@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Game game = new Game();
             Game game1 = new Game();
@@ -26,5 +26,4 @@
             Console.WriteLine($"y의 값은? {y}");
         }
     }
-
 }

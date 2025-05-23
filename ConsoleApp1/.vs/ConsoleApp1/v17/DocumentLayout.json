@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|d:\\git\\practice_csharp\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|d:\\git\\practice_csharp\\consoleapp1\\newfolder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|solutionrelative:newfolder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|d:\\git\\practice_csharp\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|d:\\git\\practice_csharp\\consoleapp1\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F6E844-49DD-4E83-B361-D7B9BAD2F71C}|ConsoleApp1.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\NewFolder\\Class1.cs",
+              "RelativeDocumentMoniker": "NewFolder\\Class1.cs",
+              "ToolTip": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\NewFolder\\Class1.cs",
+              "RelativeToolTip": "NewFolder\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:50:15.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T03:07:34.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBIAAAAQAAAA",
+              "DocumentMoniker": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "D:\\Git\\Practice_CSharp\\ConsoleApp1\\Static\\Program.cs",
+              "RelativeToolTip": "Static\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T02:51:30.591Z",
               "EditorCaption": ""
